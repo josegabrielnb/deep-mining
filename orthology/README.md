@@ -1,1 +1,1 @@
-
+Code to find sets of orthologous loci based on sequence coverage to the host flanking DNA, followed by a graph-theoretic approach to extract components (largest connected subgraphs that are not of other such subgrpahs in an undirected graph.)
