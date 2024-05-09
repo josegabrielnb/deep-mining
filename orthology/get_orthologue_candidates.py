@@ -15,7 +15,7 @@ command1 = "cat " + args.file + " | sed 's/,//g' | sed 's/{//g' | sed 's/}//g' |
 #print(command1)
 subprocess.run(command1, shell = True)
 
-#Download EVE fasta seuqneces using efetch
+#Download EVE fasta sequences using efetch
 
 
 #Diamond against RVDB to find query strand
